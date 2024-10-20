@@ -7,7 +7,7 @@ sections:
       text: Welcome!
       color: text-dark
       type: TitleBlock
-    subtitle: This is webfolio
+    subtitle: This is a webfolio
     text: >
       I have decided to create a GitHub repository which is run on Netlify to
       showcase my projects. However, this in itself is a DevOps project.

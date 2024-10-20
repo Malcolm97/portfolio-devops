@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: This is webfolio
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      I have decided to create a GitHub repository which is run on Netlify to
+      showcase my projects. However, this in itself is a DevOps project.
     actions:
       - label: Get started
         altText: ''
